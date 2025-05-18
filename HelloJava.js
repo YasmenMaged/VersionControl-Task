@@ -1,5 +1,5 @@
-// HelloWorld.js
-class HelloWorld {
+// HelloJava.js
+class HelloJava{
     printHelloWorld() {
         console.log("Hello, World!");
     }
