@@ -9,6 +9,7 @@ class HelloJava{
 }
 
 const hello = new HelloJava();
+const hello2 = new HelloJava();
 const hello3 = new HelloJava();
 hello.printHelloWorld();
 hello.printSprinkles()
