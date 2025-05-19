@@ -4,7 +4,7 @@ class HelloJava{
         console.log("Hello, World!");
     }
     printSprinkles() {
-        console.log("Adding colorful sprinkles!");
+        console.log("new");   
     }
 }
 
