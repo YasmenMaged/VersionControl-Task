@@ -6,6 +6,9 @@ class HelloJava{
     printSprinkles() {
         console.log("Adding colorful sprinkles!");
     }
+     printSprink2() {
+        console.log("removeing colorful sprinkles!");
+    }
 }
 
 const hello = new HelloJava();
